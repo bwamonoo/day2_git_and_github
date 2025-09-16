@@ -1,1 +1,3 @@
-# Global Code Day 2!! 🎉🎉🎉
+# Global Code Day 2!! 🎉🎉🎉🎉
+
+## Smaller header
