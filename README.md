@@ -3,3 +3,5 @@
 ## Smaller header
 
 ## This is the changes done by Kevin and Ruth.
+
+# Github and stuff
